@@ -9,7 +9,7 @@ const settings = {
     currentRate: GM_getValue('rate', 2.5),
     maxRate: 20,
     minRate: 1,
-    step: 0.333, //when use click
+    step: 1, //when use click
     wheelStep: 0.1,// when use wheel
 }
 const icourse163 = {
